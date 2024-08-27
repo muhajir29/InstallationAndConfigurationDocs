@@ -1,1 +1,1 @@
-# InstallationAndConfigurationDocs
+# Installation And Configuration Docs
